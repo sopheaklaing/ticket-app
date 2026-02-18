@@ -1,6 +1,38 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+# Ticket Selling System
+
+This is a **Next.js** project bootstrapped with `create-next-app`.  
+The system allows users to **buy tickets online**, with **Admin** and **Client** roles.
+
+## Features
+- **Admin Dashboard**
+  - Manage clients
+  - Create, update, and delete tickets/events
+  - Track ticket sales and orders
+- **Client Pages**
+  - Browse available events/tickets
+  - Purchase tickets online
+  - View purchase history
+- Role-based access control
+- Responsive and user-friendly interface
+
+## Tech Stack
+- **Frontend:** Next.js, React, TypeScript (use next.js for fullstack)
+- **Database:** Supabase
+
+
+## Getting Started
+
+Install dependencies:
+
+```bash
+npm install
+# or
+yarn
+# or
+pnpm install
 
 First, run the development server:
 
